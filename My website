@@ -114,18 +114,13 @@ body {
 			<td>2632625373@qq.com</td>
 		</tr>
 		<tr>
-			<th> Work Experience</th>
-			<td colspan="6">
-				<ul>
+			<p> Work Experience</p>
 				<p> I have worked as a web designer for a large Internet company, so I am confident and tenacious about this job.</p>
-				</ul>
-			</td>
+			
 		</tr>
 		<tr>
-			<th>Work ability</th>
-			<td colspan="6">
+			<p>Work ability</p>
 			<p>Positioning the overall style of the website of the enterprise and the website of the e-commerce platform store, and controlling the visual experience of users; Be able to adjust and optimize web page art design and static page production based on feedback from customers and relevant responsible persons; Be able to design and produce logo and banner, and process all kinds of pictures.</p>
-			</td>
 		</tr>
 		</table>
 
