@@ -71,9 +71,9 @@
 	<body>
 
 <div class="topnav" id="myTopnav">
-  <a href="http://127.0.0.1:8848/4/pages/6.html" class="active">Self-Introduction</a>
-  <a href="http://127.0.0.1:8848/5/pages/5.html">Picture Gallery</a>
-  <a href="http://127.0.0.1:8848/5/pages/4.html">Storyboard and Flow Chart</a>
+  <a href="https://github.com/Cecilia845/ICT425/Self-Introduction" class="active">Self-Introduction</a>
+  <a href="https://github.com/Cecilia845/ICT425/Picture Gallery">Picture Gallery</a>
+  <a href="https://github.com/Cecilia845/ICT425/Storyboard and Flow Chart">Storyboard and Flow Chart</a>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
   </a>
