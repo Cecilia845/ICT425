@@ -4,22 +4,26 @@
 	<!DOCTYPE html>
 	<html>
 	<head>
+	</body>
 		<meta charset="UTF-8">
 			<div class="header">
 	        <div align="center"><h1>My website</h1>
-	        <div align="center"><img src="../IMG_20230323_101724.jpg"  width="100px" height="100px" border="0">
+	        <div align="center"><img src="picture/IMG_20230323_101724.jpg"  width="100px" height="100px" border="0">
 	    </div>
 	
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.cn/cdnjs/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 body {
+	background-color: #f3e9c8;
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 .topnav {
   overflow: hidden;
+      margin-left: 350px;
+	  margin-right: 500px;
   background-color: #195548;
 }
 
@@ -34,7 +38,7 @@ body {
 }
 
 .topnav a:hover {
-  background-color: #fffae8;
+  background-color: #e6d79f;
   color: black;
 }
 
@@ -47,7 +51,7 @@ body {
   display: none;
 }
 
- screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
     float: right;
@@ -55,7 +59,7 @@ body {
   }
 }
 
- screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     position: absolute;
@@ -67,6 +71,19 @@ body {
     display: block;
     text-align: left;
   }
+}
+.mybkkd
+{
+left: 0px;
+bottom: 0px;
+width: 100%;
+height: 50px;
+background-color: #c5da89;
+z-index: 9999;
+height: 60px;
+line-height: 60px;
+text-align: center;
+color: #fff;
 }
 </style>
 </head>
@@ -95,7 +112,7 @@ body {
 			<td>20</td>
 			<th>Gender: </th>
 			<td>Female</td>
-			<td rowspan="3"><img src="../微信图片_20230105123322_极光看图.jpg" height="105" width="75"></td>
+			<td rowspan="3"><img src="picture/微信图片_20230105123322_极光看图.jpg" height="105" width="75"></td>
 		</tr>
 		<tr>
 			<th>Major:</th>
@@ -124,6 +141,10 @@ body {
 		</tr>
 		</table>
 
+
+		<div class="mybkkd">
+		 <h1>Thanks for browsing!</h1>
+		</div>
 
 </body>
 </html>
